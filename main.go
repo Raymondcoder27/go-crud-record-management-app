@@ -18,6 +18,7 @@ type record struct{
 var records = []record{
 	{ID: "1", Title: "Title", Body: "Body", DocumentNumber: "Document number",Quantity: 3},
 	{ID: "2", Title: "Title 2", Body: "Body 2", DocumentNumber: "Document number 2",Quantity: 4},
+	{ID: "3", Title: "Title 3", Body: "Body 6", DocumentNumber: "Document number 3",Quantity: 8},
 }
 
 
